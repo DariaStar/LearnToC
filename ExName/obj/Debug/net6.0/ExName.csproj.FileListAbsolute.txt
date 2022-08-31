@@ -1,0 +1,15 @@
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\bin\Debug\net6.0\ExName.exe
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\bin\Debug\net6.0\ExName.deps.json
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\bin\Debug\net6.0\ExName.runtimeconfig.json
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\bin\Debug\net6.0\ExName.dll
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\bin\Debug\net6.0\ExName.pdb
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\obj\Debug\net6.0\ExName.csproj.AssemblyReference.cache
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\obj\Debug\net6.0\ExName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\obj\Debug\net6.0\ExName.AssemblyInfoInputs.cache
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\obj\Debug\net6.0\ExName.AssemblyInfo.cs
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\obj\Debug\net6.0\ExName.csproj.CoreCompileInputs.cache
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\obj\Debug\net6.0\ExName.dll
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\obj\Debug\net6.0\refint\ExName.dll
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\obj\Debug\net6.0\ExName.pdb
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\obj\Debug\net6.0\ExName.genruntimeconfig.cache
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExName\obj\Debug\net6.0\ref\ExName.dll
