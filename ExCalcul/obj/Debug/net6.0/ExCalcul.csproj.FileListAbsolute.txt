@@ -1,0 +1,15 @@
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\bin\Debug\net6.0\ExCalcul.exe
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\bin\Debug\net6.0\ExCalcul.deps.json
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\bin\Debug\net6.0\ExCalcul.runtimeconfig.json
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\bin\Debug\net6.0\ExCalcul.dll
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\bin\Debug\net6.0\ExCalcul.pdb
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\obj\Debug\net6.0\ExCalcul.csproj.AssemblyReference.cache
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\obj\Debug\net6.0\ExCalcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\obj\Debug\net6.0\ExCalcul.AssemblyInfoInputs.cache
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\obj\Debug\net6.0\ExCalcul.AssemblyInfo.cs
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\obj\Debug\net6.0\ExCalcul.csproj.CoreCompileInputs.cache
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\obj\Debug\net6.0\ExCalcul.dll
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\obj\Debug\net6.0\refint\ExCalcul.dll
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\obj\Debug\net6.0\ExCalcul.pdb
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\obj\Debug\net6.0\ExCalcul.genruntimeconfig.cache
+C:\Users\Дарья Рыжова\Desktop\Учеба\С#\ExCalcul\obj\Debug\net6.0\ref\ExCalcul.dll
