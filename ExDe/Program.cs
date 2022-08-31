@@ -1,3 +1,3 @@
-﻿int number1 = 21;
-int number2 = 3;
+﻿double number1 = 21;
+double number2 = 5;
 Console.WriteLine(number1 / number2);
