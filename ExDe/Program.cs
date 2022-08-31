@@ -1,5 +1,11 @@
-﻿double number1 = new Random().Next(1, 10);
-Console.Writeline(number1);
-double number2 = new Random().Next(1, 10);
-Console.WriteLine(number2);
-Console.WriteLine(number1 + number2);
+﻿onsole.Write("Who is there?");
+string username = Console.Readline();
+if (username == Daria);
+   {
+    Console.Write("Hail, ");
+    Console.Write(username);
+   }
+else {
+    Console.Write("Hello, ");
+    Console.Write(username);
+}
