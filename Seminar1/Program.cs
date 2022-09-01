@@ -50,3 +50,32 @@
 // Console.Write("Saturday");
 // else if (h == k)
 // Console.Write("Sunday");
+
+
+
+//Console.Write("Input number: ");
+//int n = Convert.ToInt32(Console.ReadLine());
+//for (int i = (-1) * n; i <= n; i++)
+//Console.Write(i + " ");
+
+
+//Console.Write("Input number: ");
+//int n = Convert.ToInt32(Console.ReadLine());
+//int i = (-1) * n;
+//while (i <= n)
+//{
+//Console.Write(i);
+//Console.Write(", ");
+//i++;
+//}
+
+
+Console.Write("Input 3-digit number: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int ld = 0;
+while(n < 100 || n > 999)
+{
+   Console.Write("Try again");
+}
+ld = n % 10;
+Console.Write(ld);
