@@ -1,11 +1,8 @@
-﻿onsole.Write("Who is there?");
-string username = Console.Readline();
-if (username == Daria);
-   {
-    Console.Write("Hail, ");
-    Console.Write(username);
-   }
-else {
-    Console.Write("Hello, ");
-    Console.Write(username);
+﻿Console.WriteLine("Enter number: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 2; i < n; i++)
+{
+    if(i % 2 == 0)
+    Console.Write(i + " ");
 }

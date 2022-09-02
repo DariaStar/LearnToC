@@ -70,12 +70,12 @@
 //}
 
 
-Console.Write("Input 3-digit number: ");
-int n = Convert.ToInt32(Console.ReadLine());
-int ld = 0;
-while(n < 100 || n > 999)
-{
-   Console.Write("Try again");
-}
-ld = n % 10;
-Console.Write(ld);
+//Console.Write("Input 3-digit number: ");
+//int n = Convert.ToInt32(Console.ReadLine());
+//int ld = 0;
+//while(n < 100 || n > 999)
+//{
+//   Console.Write("Try again");
+//}
+//ld = n % 10;
+//Console.Write(ld);
