@@ -125,15 +125,32 @@
 // 25, 5  ->  да
 // 8,9  ->  нет
 
-void InputNumbers()
-{
-    int n = Convert.ToInt32(Console.ReadLine());
-    int m = Convert.ToInt32(Console.ReadLine());
-    Console.WriteLine(n + " " + m);
-    if(n * n == m || m * m == n)
-        Console.WriteLine("yes");
-    else
-        Console.WriteLine("no");
-}
+// void InputNumbers()
+// {
+//     int n = Convert.ToInt32(Console.ReadLine());
+//     int m = Convert.ToInt32(Console.ReadLine());
+//     Console.WriteLine(n + " " + m);
+//     if(n * n == m || m * m == n)
+//         Console.WriteLine("yes");
+//     else
+//         Console.WriteLine("no");
+// }
 
-InputNumbers();
+// InputNumbers();
+
+int[] array = { 1, 2, 3, 4, 5, 6, 7, 0, 8, 9, 0 };
+int max1 = array[0];
+int max2 = array[1];
+int i = 0;
+
+void MaxNumber1()
+{
+for (i = 0; i < array.Length; i++)
+{
+  
+    if(max1 < array[i])
+        max1 = array[i];
+        Console.WriteLine("First maximum " + max1);
+    else if (array[i] == 0) return max1;
+} 
+
